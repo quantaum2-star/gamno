@@ -1,0 +1,20 @@
+{
+  "name": "Plush Pepe #1272",
+  "image": "https://nft.fragment.com/gift/plushpepe-1272.webp",
+  "lottie": "https://nft.fragment.com/gift/plushpepe-1272.lottie.json",
+  "description": "An exclusive Plush Pepe with the appearance Midas Pepe on a Onyx Black background with Padlock icons.",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "Midas Pepe"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Onyx Black"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Padlock"
+    }
+  ]
+}
