@@ -1,0 +1,25 @@
+{
+  "name": "Plush Pepe #1987",
+  "image": "https://nft.fragment.com/gift/plushpepe-1987.webp",
+  "lottie": "https://nft.fragment.com/gift/plushpepe-1987.lottie.json",
+  "description": "An exclusive Plush Pepe with the appearance Sunset on a Mystic Pearl background with Doberman icons. Gifted to Kallen T on 1 December 2024.",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "Sunset"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Mystic Pearl"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Doberman"
+    }
+  ],
+  "original_details": {
+    "date": "2024-12-01",
+    "recipient_name": "Kallen T",
+    "recipient_telegram_id": 83179464
+  }
+}
