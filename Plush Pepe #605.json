@@ -1,0 +1,20 @@
+{
+  "name": "Plush Pepe #605",
+  "image": "https://nft.fragment.com/gift/plushpepe-605.webp",
+  "lottie": "https://nft.fragment.com/gift/plushpepe-605.lottie.json",
+  "description": "An exclusive Plush Pepe with the appearance Poison Dart on a Midnight Blue background with Planet icons.",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "Poison Dart"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Midnight Blue"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Planet"
+    }
+  ]
+}
