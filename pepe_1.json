@@ -1,0 +1,20 @@
+{
+  "name": "Plush Pepe #2593",
+  "image": "https://nft.fragment.com/gift/plushpepe-2593.webp",
+  "lottie": "https://nft.fragment.com/gift/plushpepe-2593.lottie.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "Hothead"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "English Violet"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Toilet Paper"
+    }
+  ],
+  "description": "An exclusive Plush Pepe with the appearance Hothead on a English Violet background with Toilet Paper icons."
+}
