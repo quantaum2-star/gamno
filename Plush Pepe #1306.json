@@ -1,0 +1,20 @@
+{
+  "name": "Plush Pepe #1306",
+  "image": "https://nft.fragment.com/gift/plushpepe-1306.webp",
+  "lottie": "https://nft.fragment.com/gift/plushpepe-1306.lottie.json",
+  "description": "An exclusive Plush Pepe with the appearance Gucci Leap on a Amber background with Cocktail icons.",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "Gucci Leap"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Cocktail"
+    }
+  ]
+}
