@@ -1,0 +1,27 @@
+{
+  "name": "Plush Pepe #1043",
+  "image": "https://nft.fragment.com/gift/plushpepe-1043.webp",
+  "lottie": "https://nft.fragment.com/gift/plushpepe-1043.lottie.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "Gummy Frog"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Electric Purple"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Trophy"
+    }
+  ],
+  "description": "An exclusive Plush Pepe with the appearance Gummy Frog on a Electric Purple background with Trophy icons. Gifted by @dani_ił to Maria on 30 November 2024.",
+  "original_details": {
+    "date": "2024-11-30",
+    "recipient_name": "Maria",
+    "recipient_telegram_id": 448258790,
+    "sender_name": "@dani_ił",
+    "sender_telegram_id": 344467192
+  }
+}
