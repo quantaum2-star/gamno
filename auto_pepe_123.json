@@ -1,0 +1,20 @@
+{
+  "name": "Plush Pepe #123",
+  "image": "https://nft.fragment.com/gift/plushpepe-123.webp",
+  "lottie": "https://nft.fragment.com/gift/plushpepe-123.lottie.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "Steel Frog"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Jade Green"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Potion"
+    }
+  ],
+  "description": "An exclusive Plush Pepe with the appearance Steel Frog on a Jade Green background with Potion icons."
+}
