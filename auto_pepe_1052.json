@@ -1,0 +1,20 @@
+{
+  "image": "https://nft.fragment.com/gift/plushpepe-1052.webp",
+  "lottie": "https://nft.fragment.com/gift/plushpepe-1052.lottie.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "Hue Jester"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "French Blue"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Owl"
+    }
+  ],
+  "description": "An exclusive Plush Pepe with the appearance Hue Jester on a French Blue background with Owl icons.",
+  "name": "Plush Pepe #1052"
+}
