@@ -1,0 +1,20 @@
+{
+  "name": "Scared Cat #1967",
+  "image": "https://nft.fragment.com/gift/scaredcat-1967.webp",
+  "lottie": "https://nft.fragment.com/gift/scaredcat-1967.lottie.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "Creeper"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Malachite"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Potion"
+    }
+  ],
+  "description": "An exclusive Scared Cat with the appearance Creeper on a Malachite background with Potion icons."
+}
