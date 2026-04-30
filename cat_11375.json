@@ -1,0 +1,20 @@
+{
+  "name": "Scared Cat #11375",
+  "image": "https://nft.fragment.com/gift/scaredcat-11375.webp",
+  "lottie": "https://nft.fragment.com/gift/scaredcat-11375.lottie.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "Esmeralda"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Persimmon"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Jellyfish"
+    }
+  ],
+  "description": "An exclusive Scared Cat with the appearance Esmeralda on a Persimmon background with Jellyfish icons."
+}
