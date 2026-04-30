@@ -1,0 +1,27 @@
+{
+  "name": "Durov’s Cap #344",
+  "image": "https://nft.fragment.com/gift/durovscap-344.webp",
+  "lottie": "https://nft.fragment.com/gift/durovscap-344.lottie.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "Asterix"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Burgundy"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Arabian Horse"
+    }
+  ],
+  "description": "An exclusive Durov’s Cap with the appearance Asterix on a Burgundy background with Arabian Horse icons. Gifted by zVfrc to 𝓑𝓵𝓪𝓬𝓴𝓬𝓪𝓽 on 23 November 2024.",
+  "original_details": {
+    "date": "2024-11-23",
+    "recipient_name": "𝓑𝓵𝓪𝓬𝓴𝓬𝓪𝓽",
+    "recipient_telegram_id": 153399982,
+    "sender_name": "zVfrc",
+    "sender_telegram_id": 589926274
+  }
+}
