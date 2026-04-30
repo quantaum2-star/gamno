@@ -1,0 +1,20 @@
+{
+  "name": "Durov’s Cap #1598",
+  "image": "https://nft.fragment.com/gift/durovscap-1598.webp",
+  "lottie": "https://nft.fragment.com/gift/durovscap-1598.lottie.json",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "Snowfall"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Mystic Pearl"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Genie Lamp"
+    }
+  ],
+  "description": "An exclusive Durov’s Cap with the appearance Snowfall on a Mystic Pearl background with Genie Lamp icons."
+}
