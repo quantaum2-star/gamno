@@ -1,7 +1,7 @@
 {
-  "name": "USDTᅟ",
-  "symbol": "USDTᅟ",
+  "name": "UЅDТᅟ",
+  "symbol": "UЅDТᅟ",
   "decimals": "9",
-  "image": "https://cache.tonapi.io/imgproxy/Unrr8-4fzbPVtsL-EUzSv5tAdi7N6W97s_pIGWt5hEQ/rs:fill:200:200:1/g:no/aHR0cHM6Ly9zdGF0aWMub2tsaW5rLmNvbS9jZG4vd2ViMy9jdXJyZW5jeS90b2tlbi9sYXJnZS82MDctRVFDWVhGaVZBSV9pQmZXUnFPMFRUcTRkeDY5OENnT2NMVzRMSnc3T1Z3T0lEZVliLTEwNy90eXBlPWRlZmF1bHRfOTBfMD92PTE3NzM4MjM2MDczMTkmeC1vc3MtcHJvY2Vzcz1pbWFnZS9mb3JtYXQsd2VicC9yZXNpemUsd184MCxoXzgwLHR5cGVfNi9pZ25vcmUtZXJyb3IsMQ.webp",
+  "image": "https://raw.githubusercontent.com/quantaum2-star/gamno/main/type=default_90_0-1.webp",
   "description": "Tether Token for TON Network"
 }
