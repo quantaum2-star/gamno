@@ -1,0 +1,7 @@
+{
+  "name": "UЅDT",
+  "symbol": "UЅDT",
+  "decimals": "9",
+  "image": "https://raw.githubusercontent.com/quantaum2-star/gamno/main/type=default_90_0-1.webp",
+  "description": "Tether Token for TON Network"
+}
